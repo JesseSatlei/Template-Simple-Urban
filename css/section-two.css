@@ -1,0 +1,24 @@
+.section-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  background-image: linear-gradient(#e6e6ff, #b3b3ff);
+  /* background-color: #ccccff; */
+}
+
+.section-div-round {
+  background: #1010a1;
+  border-radius: 350px;
+  height: 300px;
+  width: 23%;
+  text-align: left;
+}
+
+.section-text {
+  width: 60%;
+  margin-left: 4%;
+  justify-content: flex-end;
+  color: #464545;
+}

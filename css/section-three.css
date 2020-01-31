@@ -1,0 +1,9 @@
+.section-three {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  /* background-color: #b3b3ff; */
+  background-image: linear-gradient(#b3b3ff, #8080ff);
+}
